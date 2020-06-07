@@ -20,6 +20,6 @@ hcauQgnouC si eman ym
 or
 
 ```
-go run main.go hcauQgnouC si eman ym
+$ go run main.go hcauQgnouC si eman ym
 my name is CuongQuach
 ```
